@@ -421,9 +421,9 @@ Before implementation, the designated Legal and Compliance function should compl
 
 | Role | Name / Signature | Date |
 |---|---|---|
-| Prepared By — GRC Analyst | Concord Ekwonna | November 1, 2026 |
-| Reviewed By — Policy Owner | Pending | Pending |
-| Approved By — Authorized Approver | Pending | Pending |
+| Prepared By - GRC Analyst | Concord Ekwonna | November 1, 2026 |
+| Reviewed By - Policy Owner | Pending | Pending |
+| Approved By - Authorized Approver | Pending | Pending |
 
 **End of Document**
 
