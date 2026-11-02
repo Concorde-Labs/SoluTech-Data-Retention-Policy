@@ -5,8 +5,8 @@
 **Version:** 1.0 - Draft  
 **Classification:** Internal - Confidential  
 **Prepared By:** Concord Ekwonna, GRC Analyst  
-**Policy Owner:** Chief Information Security Officer (CISO) — Proposed  
-**Approval Authority:** Designated Compliance Officer — Proposed  
+**Policy Owner:** Chief Information Security Officer (CISO) - Proposed  
+**Approval Authority:** Designated Compliance Officer - Proposed  
 **Date Prepared:** November 1, 2026  
 **Status:** Pending Review and Approval  
 **Review Frequency:** Annually following approval
