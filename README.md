@@ -1,0 +1,84 @@
+# SoluTech Inc. | Data Retention and Secure Disposal Policy
+
+## Project Overview
+
+This project focuses on the development of a Data Retention and Secure Disposal Policy for SoluTech Inc., following an internal audit that identified weaknesses in the organization's data management practices.
+
+The assessment revealed excessive retention of outdated records, prolonged storage of sensitive personal information, and the absence of documented secure disposal procedures.
+
+Acting as a GRC Analyst in this case-study exercise, I developed a proposed policy framework to address these findings, strengthen information governance, and support compliance with applicable data protection requirements.
+
+## Project Objectives
+
+- Establish clear requirements for data retention and secure disposal.
+- Define accountability for information management across departments.
+- Address privacy and security risks associated with excessive data retention.
+- Develop a proposed retention schedule for organizational records.
+- Align relevant policy requirements with GDPR and ISO/IEC 27001:2022.
+- Establish monitoring, exception management, and compliance evidence requirements.
+
+## Methodology
+
+The project followed a risk-based approach:
+
+1. **Audit Findings Review:** Examined the identified weaknesses in SoluTech's data retention and disposal practices.
+2. **Risk Identification:** Evaluated potential privacy, regulatory, operational, and information security risks.
+3. **Regulatory and Control Mapping:** Considered relevant GDPR requirements and ISO/IEC 27001:2022 controls.
+4. **Policy Development:** Established proposed requirements for retention periods, secure disposal, roles and responsibilities, legal holds, and compliance monitoring.
+5. **Control Mapping:** Linked identified audit findings to proposed policy requirements and expected audit evidence.
+
+## Key Audit Findings and Proposed Controls
+
+| Audit Finding | Associated Risk | Proposed Control |
+|---|---|---|
+| Absence of a formal data retention policy | Inconsistent information management practices | Documented retention policy and assigned responsibilities |
+| Indefinite storage of outdated files | Increased data exposure and storage costs | Defined retention periods and periodic record reviews |
+| Excessive retention of sensitive personal information | Privacy violations and potential regulatory penalties | Retention schedule and secure disposal requirements |
+| Lack of documented secure deletion procedures | Unauthorized recovery or disclosure of information | Secure deletion, destruction, and verification procedures |
+
+## Regulatory and Control Alignment
+
+**General Data Protection Regulation (GDPR)**
+
+- Article 5(1)(e): Storage Limitation
+- Article 5(2): Accountability
+- Article 17: Right to Erasure
+- Article 32: Security of Processing
+
+**ISO/IEC 27001:2022 — Annex A**
+
+- A.5.31: Legal, Statutory, Regulatory and Contractual Requirements
+- A.5.33: Protection of Records
+- A.8.10: Information Deletion
+- A.7.14: Secure Disposal or Re-use of Equipment
+
+These requirements informed the proposed policy controls. The project does not represent a formal compliance certification or an assessment of implemented control effectiveness.
+
+## Project Deliverables
+
+- **Data Retention and Secure Disposal Policy:** A formal draft establishing information retention, disposal, governance, and compliance requirements.
+- **Proposed Data Retention Schedule:** Defines information categories, proposed retention periods, retention triggers, and validation requirements.
+- **Audit Findings and Control Mapping:** Links identified weaknesses to proposed controls and expected audit evidence.
+- **Retention Schedule Validation Register:** Establishes the information required to validate and approve retention periods.
+
+## Assumptions and Limitations
+
+This project was developed as a simulated GRC policy engagement using the SoluTech Inc. case study.
+
+Proposed retention periods are subject to validation against applicable legal, contractual, and business requirements. The policy remains a draft and does not imply formal organizational approval, implementation, or testing.
+
+## Skills Demonstrated
+
+- GRC Policy Development
+- Information Governance
+- Risk Identification and Assessment
+- GDPR and ISO 27001 Control Mapping
+- Data Retention and Secure Disposal
+- Audit Findings Remediation
+- Compliance Documentation and Evidence Management
+
+## Author
+
+**Concord Ekwonna**  
+GRC Analyst  
+[GitHub Profile](https://github.com/)
