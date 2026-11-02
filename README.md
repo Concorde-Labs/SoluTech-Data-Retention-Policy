@@ -81,4 +81,3 @@ Proposed retention periods are subject to validation against applicable legal, c
 
 **Concord Ekwonna**  
 GRC Analyst  
-[GitHub Profile](https://github.com/)
