@@ -45,7 +45,7 @@ The project followed a risk-based approach:
 - Article 17: Right to Erasure
 - Article 32: Security of Processing
 
-**ISO/IEC 27001:2022 — Annex A**
+**ISO/IEC 27001:2022 - Annex A**
 
 - A.5.31: Legal, Statutory, Regulatory and Contractual Requirements
 - A.5.33: Protection of Records
